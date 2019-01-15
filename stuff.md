@@ -5,3 +5,7 @@ This was a low energy day. I worked my regular shift (4am - 1:30pm) in the morni
 
  * [JS-I challenge](https://repl.it/@RaneWallin/JS-I)
  * [JS-II challenge](https://repl.it/@RaneWallin/JS-II)
+ 
+ 
+ ## 1/14/19, Monday ##
+ Another light day, coing wise. The Nordstrom hackathon starts tomorrow. Had some project discussions with my team. Lambda School is on a free day, so not much to do there. Went over Sprint Challenge with PM.
