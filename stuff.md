@@ -14,3 +14,6 @@ This was a low energy day. I worked my regular shift (4am - 1:30pm) in the morni
 Today was the final day of the Nordstrom hackathon. My team made a web app using React, Redux and Firebase. I was responsibile for setting up and integrating Firebase. My teammates worked on setting up the front end and UI. 
 
 We got the finishing touches on today and the app worked mostly like I imagined. Google was offering a side competition for people who used Google Cloud Services in their app. We ended up winning that competition!
+
+## 1/24/19, Thursday ##
+I finished my Lambda School challenge for the Javascript IV section. Had a peer review session that went well.
