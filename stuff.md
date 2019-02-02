@@ -17,3 +17,6 @@ We got the finishing touches on today and the app worked mostly like I imagined.
 
 ## 1/24/19, Thursday ##
 I finished my Lambda School challenge for the Javascript IV section. Had a peer review session that went well.
+
+## 2/2/19, Saturday ##
+Completed DOM II and worked on UML diagrams
